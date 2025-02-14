@@ -1,1 +1,3 @@
-function calulateNumbers(var v1, var v2
+function calulateNumbers(v1, v2) {
+  return v1 + v2;
+}
